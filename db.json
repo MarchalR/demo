@@ -1,1 +1,5 @@
-{ "content":"Les super CGV de Bookeen" }
+{
+  "content": {
+    "CGV": "Les super CGV de Bookeen"
+  }
+}
