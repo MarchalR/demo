@@ -1,4 +1,5 @@
 {
- "CGV": "Les super CGV de Bookeen",
- "Autre" : "Un autre champ"
+  "content": {
+    "CGV": "Les super CGV de Bookeen"
+  }
 }
