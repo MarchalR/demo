@@ -3,3 +3,17 @@
     "CGV": "Les super CGV de Bookeen"
   }
 }
+
+//Pour références, codu utilisé pour les tests CGV :     
+//QUrl url("https://my-json-server.typicode.com/MarchalR/demo/db");
+
+
+//-------------------------------------------
+
+ //QJsonDocument doc = QJsonDocument::fromJson(data);
+//        QJsonObject o = doc.object();
+//        qDebug() << "VALEUR DE O : " << o;
+//        QJsonObject cgvObject = o["content"].toObject();
+//        qDebug() << "VALEUR DE cgvObject : " << cgvObject;
+//        cgvString = cgvObject["CGV"].toString();
+//        qDebug() << "VALEUR DE cgvString : " << cgvString;
